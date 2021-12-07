@@ -1,0 +1,6 @@
+importFrom("stats", "pnbinom", "rnbinom", "sd", "var")
+importFrom("graphics", "plot.default")
+export(dticksModel)
+export(predictEN)
+export(simulatePaperModel)
+export(waicTicks)

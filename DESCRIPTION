@@ -1,0 +1,13 @@
+Package: tickTF
+Type: Package
+Title: Infection of Roe Deer Fawns by Ticks from 1992 to 2018 in the Trois-Fontaines Forest
+Version: 1.0
+Date: 2021-08-25
+Depends: R (>= 3.5.0)
+Suggests: bayesplot, knitr, nimble, coda, ggplot2
+LazyData: true
+Author: Clement Calenge
+Maintainer: Clement Calenge <clement.calenge@ofb.gouv.fr>
+Description: Functions and data for the fit of the model describing the tick infection process of roe deer in the Trois-Fontaines Forest (France), as described in Bariod et al. (in prep.).
+VignetteBuilder: knitr
+License: GPL (>= 2)
